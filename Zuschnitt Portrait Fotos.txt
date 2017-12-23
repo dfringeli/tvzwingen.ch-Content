@@ -1,0 +1,6 @@
+Foto Quer machen
+Serif PhotoPlus:
+Zuschnitt von 8x10inches
+Bereich auswählen
+Birdgrässe verkleinern auf Breite: 140px, Höhe: 175 (automatisch)
+Exportieren
