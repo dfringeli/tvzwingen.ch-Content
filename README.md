@@ -10,3 +10,6 @@ Source change of the flickr album gallery plugin
 
 ## Color Scheme
 A little html page defines the colors for the website
+
+## Workflow
+Copy the content into the WordPress editor
